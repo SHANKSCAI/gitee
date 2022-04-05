@@ -8,3 +8,4 @@ feature1 1 commit
 feature-1 2 commit
 merge feature-1 to v1.0
 merge v1.0 to master
+master 5 commit
