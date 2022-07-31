@@ -1,3 +1,3 @@
-module gittee
+module gitee
 
 go 1.16
